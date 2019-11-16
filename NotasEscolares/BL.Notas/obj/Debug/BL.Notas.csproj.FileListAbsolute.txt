@@ -1,0 +1,10 @@
+C:\Users\Ariel Martinez\Documents\Trabajos de la universidad\Lenguaje de programacion 3\NotasEscolares\BL.Notas\bin\Debug\BL.Notas.dll
+C:\Users\Ariel Martinez\Documents\Trabajos de la universidad\Lenguaje de programacion 3\NotasEscolares\BL.Notas\bin\Debug\BL.Notas.pdb
+C:\Users\Ariel Martinez\Documents\Trabajos de la universidad\Lenguaje de programacion 3\NotasEscolares\BL.Notas\obj\Debug\BL.Notas.csprojResolveAssemblyReference.cache
+C:\Users\Ariel Martinez\Documents\Trabajos de la universidad\Lenguaje de programacion 3\NotasEscolares\BL.Notas\obj\Debug\BL.Notas.dll
+C:\Users\Ariel Martinez\Documents\Trabajos de la universidad\Lenguaje de programacion 3\NotasEscolares\BL.Notas\obj\Debug\BL.Notas.pdb
+C:\Users\Sinia Perdomo\Desktop\2 entrega\NotasEscolares\BL.Notas\bin\Debug\BL.Notas.dll
+C:\Users\Sinia Perdomo\Desktop\2 entrega\NotasEscolares\BL.Notas\bin\Debug\BL.Notas.pdb
+C:\Users\Sinia Perdomo\Desktop\2 entrega\NotasEscolares\BL.Notas\obj\Debug\BL.Notas.csprojResolveAssemblyReference.cache
+C:\Users\Sinia Perdomo\Desktop\2 entrega\NotasEscolares\BL.Notas\obj\Debug\BL.Notas.dll
+C:\Users\Sinia Perdomo\Desktop\2 entrega\NotasEscolares\BL.Notas\obj\Debug\BL.Notas.pdb

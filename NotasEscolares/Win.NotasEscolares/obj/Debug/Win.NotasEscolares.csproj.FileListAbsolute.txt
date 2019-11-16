@@ -1,0 +1,30 @@
+C:\Users\Ariel Martinez\Documents\Trabajos de la universidad\Lenguaje de programacion 3\NotasEscolares\Win.NotasEscolares\bin\Debug\Win.NotasEscolares.exe.config
+C:\Users\Ariel Martinez\Documents\Trabajos de la universidad\Lenguaje de programacion 3\NotasEscolares\Win.NotasEscolares\bin\Debug\Win.NotasEscolares.exe
+C:\Users\Ariel Martinez\Documents\Trabajos de la universidad\Lenguaje de programacion 3\NotasEscolares\Win.NotasEscolares\bin\Debug\Win.NotasEscolares.pdb
+C:\Users\Ariel Martinez\Documents\Trabajos de la universidad\Lenguaje de programacion 3\NotasEscolares\Win.NotasEscolares\obj\Debug\Win.NotasEscolares.csprojResolveAssemblyReference.cache
+C:\Users\Ariel Martinez\Documents\Trabajos de la universidad\Lenguaje de programacion 3\NotasEscolares\Win.NotasEscolares\obj\Debug\Win.NotasEscolares.FormLogin.resources
+C:\Users\Ariel Martinez\Documents\Trabajos de la universidad\Lenguaje de programacion 3\NotasEscolares\Win.NotasEscolares\obj\Debug\Win.NotasEscolares.FormMenu.resources
+C:\Users\Ariel Martinez\Documents\Trabajos de la universidad\Lenguaje de programacion 3\NotasEscolares\Win.NotasEscolares\obj\Debug\Win.NotasEscolares.Properties.Resources.resources
+C:\Users\Ariel Martinez\Documents\Trabajos de la universidad\Lenguaje de programacion 3\NotasEscolares\Win.NotasEscolares\obj\Debug\Win.NotasEscolares.csproj.GenerateResource.Cache
+C:\Users\Ariel Martinez\Documents\Trabajos de la universidad\Lenguaje de programacion 3\NotasEscolares\Win.NotasEscolares\obj\Debug\Win.NotasEscolares.exe
+C:\Users\Ariel Martinez\Documents\Trabajos de la universidad\Lenguaje de programacion 3\NotasEscolares\Win.NotasEscolares\obj\Debug\Win.NotasEscolares.pdb
+C:\Users\Ariel Martinez\Documents\Trabajos de la universidad\Lenguaje de programacion 3\NotasEscolares\Win.NotasEscolares\obj\Debug\Win.NotasEscolares.FormEspañol.resources
+C:\Users\Ariel Martinez\Documents\Trabajos de la universidad\Lenguaje de programacion 3\NotasEscolares\Win.NotasEscolares\obj\Debug\Win.NotasEscolares.FormIngles.resources
+C:\Users\Ariel Martinez\Documents\Trabajos de la universidad\Lenguaje de programacion 3\NotasEscolares\Win.NotasEscolares\obj\Debug\Win.NotasEscolares.FormMatematicas.resources
+C:\Users\Ariel Martinez\Documents\Trabajos de la universidad\Lenguaje de programacion 3\NotasEscolares\Win.NotasEscolares\bin\Debug\BL.Notas.dll
+C:\Users\Ariel Martinez\Documents\Trabajos de la universidad\Lenguaje de programacion 3\NotasEscolares\Win.NotasEscolares\bin\Debug\BL.Notas.pdb
+C:\Users\Sinia Perdomo\Desktop\2 entrega\NotasEscolares\Win.NotasEscolares\bin\Debug\Win.NotasEscolares.exe.config
+C:\Users\Sinia Perdomo\Desktop\2 entrega\NotasEscolares\Win.NotasEscolares\obj\Debug\Win.NotasEscolares.exe
+C:\Users\Sinia Perdomo\Desktop\2 entrega\NotasEscolares\Win.NotasEscolares\obj\Debug\Win.NotasEscolares.pdb
+C:\Users\Sinia Perdomo\Desktop\2 entrega\NotasEscolares\Win.NotasEscolares\bin\Debug\Win.NotasEscolares.exe
+C:\Users\Sinia Perdomo\Desktop\2 entrega\NotasEscolares\Win.NotasEscolares\bin\Debug\Win.NotasEscolares.pdb
+C:\Users\Sinia Perdomo\Desktop\2 entrega\NotasEscolares\Win.NotasEscolares\bin\Debug\BL.Notas.dll
+C:\Users\Sinia Perdomo\Desktop\2 entrega\NotasEscolares\Win.NotasEscolares\bin\Debug\BL.Notas.pdb
+C:\Users\Sinia Perdomo\Desktop\2 entrega\NotasEscolares\Win.NotasEscolares\obj\Debug\Win.NotasEscolares.csprojResolveAssemblyReference.cache
+C:\Users\Sinia Perdomo\Desktop\2 entrega\NotasEscolares\Win.NotasEscolares\obj\Debug\Win.NotasEscolares.FormIngles.resources
+C:\Users\Sinia Perdomo\Desktop\2 entrega\NotasEscolares\Win.NotasEscolares\obj\Debug\Win.NotasEscolares.FormLogin.resources
+C:\Users\Sinia Perdomo\Desktop\2 entrega\NotasEscolares\Win.NotasEscolares\obj\Debug\Win.NotasEscolares.FormMatematicas.resources
+C:\Users\Sinia Perdomo\Desktop\2 entrega\NotasEscolares\Win.NotasEscolares\obj\Debug\Win.NotasEscolares.FormMenu.resources
+C:\Users\Sinia Perdomo\Desktop\2 entrega\NotasEscolares\Win.NotasEscolares\obj\Debug\Win.NotasEscolares.FormEspañol.resources
+C:\Users\Sinia Perdomo\Desktop\2 entrega\NotasEscolares\Win.NotasEscolares\obj\Debug\Win.NotasEscolares.Properties.Resources.resources
+C:\Users\Sinia Perdomo\Desktop\2 entrega\NotasEscolares\Win.NotasEscolares\obj\Debug\Win.NotasEscolares.csproj.GenerateResource.Cache
